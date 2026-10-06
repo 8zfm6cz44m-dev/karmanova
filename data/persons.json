@@ -10,7 +10,7 @@
    "BGN/PCGN: Yevgeniya Aleksandrovna Karmanova",
    "ISO 9: Evgeniâ Aleksandrovna Karmanova"
   ],
-  "summary": "Utgångsperson. Dotter till Alexander Andrejevich Karmanov och Larissa Vladimirovna (född Dobovtseva).",
+  "summary": "Utgångsperson. Dotter till Alexander Andrejevich Karmanov och Larissa Vladimirovna (född Dubovtseva).",
   "flags": [
    "Födelseår saknas"
   ],
@@ -63,24 +63,24 @@
  },
  {
   "id": "larissa",
-  "name": "Larissa Vladimirovna Dobovtseva",
+  "name": "Larissa Vladimirovna Dubovtseva",
   "status": "family",
   "sex": "f",
   "living": true,
   "altNames": [
-   "Лариса Владимировна Добовцева / Добровцева (härledd kyrilliska, stavning ej bekräftad)",
-   "BGN/PCGN: Larisa Vladimirovna Dobovtseva"
+   "Лариса Владимировна Дубовцева (efternamnet bekräftat av familjen; förnamn/patronymikon härledda)",
+   "BGN/PCGN: Larisa Vladimirovna Dubovtseva; ISO 9: Larisa Vladimirovna Dubovceva"
   ],
   "born": {
    "date": "1962"
   },
-  "summary": "Evgenias mamma, född Dobovtseva (gift namn okänt, troligen Karmanova). Äldst av tre syskon.",
+  "summary": "Evgenias mamma, född Dubovtseva (gift namn okänt, troligen Karmanova). Äldst av tre syskon.",
   "flags": [
    "Gift efternamn okänt"
   ],
   "notes": [
-   "Patronymikon Vladimirovna tyder på att hennes far hette Vladimir (se Vladimir Dobovtsev, kandidat).",
-   "Ryska kvinnonamn: flicknamnet Dobovtseva är det som söks i födelseakten och i släktens arkiv."
+   "Patronymikon Vladimirovna tyder på att hennes far hette Vladimir (se Vladimir Dubovtsev, kandidat).",
+   "Ryska kvinnonamn: flicknamnet Дубовцева (Dubovtseva) är det som söks i födelseakten och i släktens arkiv. Stavningen Дубовцев/Дубовцева bekräftad av familjen (via Martin), 2026-10-06."
   ],
   "sources": [
    {
@@ -88,22 +88,23 @@
    }
   ],
   "search": [
-   "Larissa Dobovtseva",
-   "Larisa Dobovtseva",
+   "Larissa Dubovtseva",
+   "Larisa Dubovtseva",
    "Larissa Karmanova",
-   "Лариса Добовцева",
-   "Добровцева",
-   "Владимировна"
+   "Дубовцева",
+   "Владимировна",
+   "Dubovtseva",
+   "Dobovtseva"
   ]
  },
  {
   "id": "valentina",
-  "name": "Valentina Dobovtseva",
+  "name": "Valentina Dubovtseva",
   "status": "family",
   "sex": "f",
   "living": true,
   "altNames": [
-   "Валентина Добовцева / Добровцева (härledd kyrilliska, ej bekräftad)"
+   "Валентина Дубовцева"
   ],
   "summary": "Larissas mamma. Efternamn före/efter giftermål ej bekräftat.",
   "flags": [
@@ -118,25 +119,28 @@
    }
   ],
   "search": [
-   "Valentina Dobovtseva",
-   "Валентина"
+   "Valentina Dubovtseva",
+   "Валентина",
+   "Dubovtseva",
+   "Дубовцева",
+   "Dobovtseva"
   ]
  },
  {
   "id": "vladimir_d",
-  "name": "Vladimir Dobovtsev",
+  "name": "Vladimir Dubovtsev",
   "status": "candidate",
   "sex": "m",
   "living": true,
   "altNames": [
-   "Владимир Добовцев / Добровцев (härledd kyrilliska, ej bekräftad)"
+   "Владимир Дубовцев"
   ],
   "summary": "Troligen Larissas far. Namnet är härlett ur Larissas patronymikon Vladimirovna – inte uppgivet av familjen.",
   "flags": [
    "Härledd ur patronymikon"
   ],
   "notes": [
-   "Kandidat: Larissas far är okänd för familjen, men hennes patronymikon Vladimirovna pekar på förnamnet Vladimir. Efternamnet Dobovtsev stöds av brodern Oleg Dobovtsev.",
+   "Kandidat: Larissas far är okänd för familjen, men hennes patronymikon Vladimirovna pekar på förnamnet Vladimir. Efternamnet Dubovtsev stöds av brodern Oleg Dubovtsev.",
    "Samma namn räcker aldrig för verified. Kräver Larissas födelseakt (ZAGS, ca 1962) med faderns namn.",
    "Levandestatus okänd; behandlas som levande."
   ],
@@ -146,19 +150,22 @@
    }
   ],
   "search": [
-   "Vladimir Dobovtsev",
-   "Владимир"
+   "Vladimir Dubovtsev",
+   "Владимир",
+   "Dubovtsev",
+   "Дубовцев",
+   "Dobovtsev"
   ]
  },
  {
   "id": "julia",
-  "name": "Julia Dobovtseva",
+  "name": "Julia Dubovtseva",
   "status": "family",
   "sex": "f",
   "living": true,
   "altNames": [
-   "Юлия Добовцева / Добровцева (härledd kyrilliska, ej bekräftad)",
-   "BGN/PCGN: Yuliya Dobovtseva"
+   "Юлия Дубовцева",
+   "BGN/PCGN: Yuliya Dubovtseva"
   ],
   "summary": "Larissas yngsta syskon.",
   "flags": [
@@ -170,19 +177,22 @@
    }
   ],
   "search": [
-   "Julia Dobovtseva",
-   "Yulia Dobovtseva",
-   "Юлия"
+   "Julia Dubovtseva",
+   "Yulia Dubovtseva",
+   "Юлия",
+   "Dubovtseva",
+   "Дубовцева",
+   "Dobovtseva"
   ]
  },
  {
   "id": "oleg",
-  "name": "Oleg Dobovtsev",
+  "name": "Oleg Dubovtsev",
   "status": "family",
   "sex": "m",
   "living": true,
   "altNames": [
-   "Олег Добовцев / Добровцев (härledd kyrilliska, ej bekräftad)"
+   "Олег Дубовцев"
   ],
   "summary": "Larissas syskon, mellanbarnet (yngre än Larissa, äldre än Julia).",
   "flags": [
@@ -194,8 +204,11 @@
    }
   ],
   "search": [
-   "Oleg Dobovtsev",
-   "Олег"
+   "Oleg Dubovtsev",
+   "Олег",
+   "Dubovtsev",
+   "Дубовцев",
+   "Dobovtsev"
   ]
  },
  {

@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Släktträd – Evgenia Karmanova</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;0,700;1,400&family=Alegreya+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌳</text></svg>">
+</head>
+<body>
+<a class="skip" href="#main">Hoppa till innehåll</a>
+<header class="top">
+  <div class="brand">
+    <h1>Släktträd och forskningsunderlag – Evgenia Karmanova</h1>
+    <p>Sammanställt för Evgenia Karmanova · Start 2026-10-06 · Källkritiskt släktträd, ryska led</p>
+  </div>
+  <div class="search" role="search">
+    <label for="q" class="vh">Sök namn, gård, år eller källa</label>
+    <input id="q" type="search" autocomplete="off" placeholder="🔍 Sök namn, gård, år eller källa" aria-controls="suggest" aria-expanded="false">
+    <div id="suggest" class="suggest" role="listbox" hidden></div>
+  </div>
+</header>
+<nav class="tabs" aria-label="Vyer">
+  <a href="#pappa" data-tab="pappa">Pappas sida</a>
+  <a href="#mamma" data-tab="mamma">Mammas sida</a>
+  <a href="#bevis" data-tab="bevis">Bevisläge</a>
+  <a href="#noteringar" data-tab="noteringar">Noteringar</a>
+  <a href="#bilder" data-tab="bilder">Bilder</a>
+  <a href="#export" data-tab="export">Export</a>
+  <a href="#om" data-tab="om">Om</a>
+</nav>
+<div class="views" id="main">
+  <!-- TREE VIEW -->
+  <div id="view-tree" class="view active">
+    <div class="tree-wrap">
+      <div class="tree-left">
+        <div class="treebar">
+          <p id="tree-intro" class="intro"></p>
+          <div class="controls">
+            <label class="toggle"><input type="checkbox" id="show-leads" checked> Visa alla (inkl. leads ur användarträd)</label>
+            <div class="btns" role="group" aria-label="Zoom">
+              <button type="button" id="zoom-out">−</button>
+              <button type="button" id="zoom-in">+</button>
+              <button type="button" id="zoom-fit">Visa hela</button>
+              <button type="button" id="zoom-focus">Centrera</button>
+            </div>
+          </div>
+          <div id="legend" class="legend" aria-label="Teckenförklaring"></div>
+        </div>
+        <div id="viewport" class="viewport" tabindex="0">
+          <div id="stage" class="stage"></div>
+        </div>
+      </div>
+      <!-- Right: person panel -->
+      <aside id="person-panel" class="person-panel empty" aria-label="Personkort">
+        <div class="panel-body">
+          <p style="font-size:40px;line-height:1">👤</p>
+          <p>Klicka på ett kort i trädet för att öppna personkortet.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <!-- NOTES VIEW -->
+  <div id="view-noteringar" class="view">
+    <div class="page-view">
+      <h2>Noteringar</h2>
+      <p>Forskningsunderlag: statusregler och källkritik (Master), Forskningslogg och Bildregister. Allt är sökbart.</p>
+      <div class="notes-tools">
+        <label for="nq" class="vh">Sök i noteringar</label>
+        <input id="nq" type="search" placeholder="Sök i noteringar">
+        <div class="chips" role="group" aria-label="Dokument">
+          <label><input type="checkbox" name="doc" value="master" checked> Master</label>
+          <label><input type="checkbox" name="doc" value="logg" checked> Forskningslogg</label>
+          <label><input type="checkbox" name="doc" value="bild" checked> Bildregister</label>
+        </div>
+        <label>Status
+          <select id="nstatus">
+            <option value="">Alla rader</option>
+            <option value="any">Rader med statusmärke</option>
+            <option value="verified">Verifierad</option>
+            <option value="strong">Mycket stark kandidat</option>
+            <option value="candidate">Kandidat</option>
+            <option value="excluded">Utesluten</option>
+          </select>
+        </label>
+        <label class="toggle"><input type="checkbox" id="nonly" checked> Bara träffande rader</label>
+        <div class="btns">
+          <button type="button" id="nopen">Fäll ut alla</button>
+          <button type="button" id="nclose">Fäll ihop alla</button>
+        </div>
+        <p id="ncount" class="count" aria-live="polite"></p>
+      </div>
+      <div id="notes"></div>
+    </div>
+  </div>
+
+  <div id="view-bevis" class="view"><div class="page-view" id="bevis-body"></div></div>
+  <div id="view-bilder" class="view"><div class="page-view" id="bilder-body"></div></div>
+  <div id="view-export" class="view"><div class="page-view" id="export-body"></div></div>
+  <div id="view-om" class="view"><div class="page-view" id="om-body"></div></div>
+
+  <p id="loaderr" class="loaderr" hidden></p>
+</div>
+<script src="assets/gedcom.js" defer></script>
+<script src="assets/app.js" defer></script>
+</body>
+</html>

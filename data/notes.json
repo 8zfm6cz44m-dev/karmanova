@@ -1,0 +1,87 @@
+{
+ "source": "Karmanova – start 2026-10-06",
+ "sections": [
+  {
+   "id": "master-001",
+   "doc": "master",
+   "title": "Statusnivåer och källkritik",
+   "items": [
+    {
+     "t": "{{verified}} VERIFIERAD = uttrycklig primärkälla (metrisk bok, revizskaja skazka eller folkräkning med familjeställning, ZAGS-akt, arkivintyg)."
+    },
+    {
+     "t": "{{family}} FAMILJEBEKRÄFTAD = uppgift från familjen, inte dokumenterad."
+    },
+    {
+     "t": "{{strong}} MYCKET STARK KANDIDAT = flera oberoende indicier men avgörande dokument saknas."
+    },
+    {
+     "t": "{{candidate}} KANDIDAT = rimlig hypotes som ska prövas och försöka motbevisas."
+    },
+    {
+     "t": "{{lead}} LEAD = användarträd (Geneanet, MyHeritage, Ancestry), forum eller minne. Endast sökingång."
+    },
+    {
+     "t": "{{excluded}} UTESLUTEN = prövad och avfärdad."
+    },
+    {
+     "t": "Samma namn + år räcker aldrig för verified. Datumkonflikter blir strong + en flagga i flags.json."
+    }
+   ]
+  },
+  {
+   "id": "master-002",
+   "doc": "master",
+   "title": "Ryska specialfall",
+   "items": [
+    {
+     "t": "Namn: förnamn + patronymikon + släktnamn. Kvinnliga släktnamn slutar ofta på -а (Иванова/Ivanova). Spara kyrilliskt namn OCH translitterering (ISO 9 och BGN/PCGN) som sökalternativ. Notera Ё/Е, Ь och Й."
+    },
+    {
+     "t": "Datum: före 1 februari 1918 gällde julianska kalendern (gammal stil). Skriv ”gammal stil/ny stil” när källan anger det."
+    },
+    {
+     "t": "Platser: gubernija, ujezd, volost, socken (prichod). Gränser och namn ändrades kraftigt (sovjettiden, Ukraina, Belarus, Baltikum, Kaukasus). Spara historiskt namn och dagens namn."
+    },
+    {
+     "t": "Etnicitet och religion påverkar vilka källor som finns (ortodox, katolsk, luthersk, judisk, muslimsk m.fl.)."
+    },
+    {
+     "t": "Sovjetiska ZAGS-akter (födelse, vigsel, död) kräver ofta förfrågan till arkivet. Förfrågningar skrivs på ryska."
+    }
+   ]
+  },
+  {
+   "id": "logg-001",
+   "doc": "logg",
+   "title": "2026-10-06 Start",
+   "items": [
+    {
+     "t": "Projekt skapat från mallen för släktträd med källkritik. Tom datamodell."
+    },
+    {
+     "t": "Första uppgifterna (föräldrar, syskon och far-/morföräldrar med namn) lagda in som {{family}} ur muntlig uppgift via Martin."
+    },
+    {
+     "t": "Kyrilliska stavningar är härledda ur translittererade namn och inte bekräftade."
+    },
+    {
+     "t": "Larissas far är inte uppgiven. Namnet Vladimir är härlett ur patronymikon och ligger som {{candidate}}."
+    },
+    {
+     "t": "Nästa steg: etnicitet, religion och dokument hos Evgenia; sedan sökning i FamilySearch, Pamyat Naroda m.fl."
+    }
+   ]
+  },
+  {
+   "id": "bild-001",
+   "doc": "bild",
+   "title": "Bildregister",
+   "items": [
+    {
+     "t": "Inga bilder registrerade än."
+    }
+   ]
+  }
+ ]
+}

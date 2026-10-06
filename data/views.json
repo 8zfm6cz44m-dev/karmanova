@@ -1,0 +1,84 @@
+[
+ {
+  "id": "pappa",
+  "title": "Pappas sida",
+  "intro": "Familjen Karmanov. Allt är hittills familjeuppgifter (blå); inga arkivbelägg än.",
+  "focus": "alexander",
+  "rows": {
+   "0": "Farföräldrar (födelseår okända)",
+   "1": "Pappas generation",
+   "2": "Egen generation"
+  },
+  "leadRows": [],
+  "pos": {
+   "andrej": [
+    0,
+    0
+   ],
+   "nina": [
+    1,
+    0
+   ],
+   "vladimir_k": [
+    0,
+    1
+   ],
+   "alexander": [
+    1,
+    1
+   ],
+   "larissa": [
+    2,
+    1
+   ],
+   "evgenia": [
+    1.5,
+    2
+   ]
+  },
+  "groups": []
+ },
+ {
+  "id": "mamma",
+  "title": "Mammas sida",
+  "intro": "Familjen Dobovtsev. Larissas far är okänd; Vladimir är en hypotes ur patronymikon (streckad linje).",
+  "focus": "larissa",
+  "rows": {
+   "0": "Morföräldrar (födelseår okända)",
+   "1": "Mammas generation",
+   "2": "Egen generation"
+  },
+  "leadRows": [],
+  "pos": {
+   "vladimir_d": [
+    0,
+    0
+   ],
+   "valentina": [
+    1,
+    0
+   ],
+   "alexander": [
+    -1,
+    1
+   ],
+   "larissa": [
+    0,
+    1
+   ],
+   "oleg": [
+    1,
+    1
+   ],
+   "julia": [
+    2,
+    1
+   ],
+   "evgenia": [
+    -0.5,
+    2
+   ]
+  },
+  "groups": []
+ }
+]

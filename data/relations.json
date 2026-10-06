@@ -1,0 +1,100 @@
+[
+ {
+  "id": "p-alexander-larissa",
+  "type": "partner",
+  "a": "alexander",
+  "b": "larissa",
+  "status": "family",
+  "basis": "Evgenias föräldrar (familjeuppgift). Vigsel (ZAGS-akt) ej funnen."
+ },
+ {
+  "id": "p-andrej-nina",
+  "type": "partner",
+  "a": "andrej",
+  "b": "nina",
+  "status": "family",
+  "basis": "Alexanders föräldrar (familjeuppgift). Vigselakt ej funnen."
+ },
+ {
+  "id": "p-vladimir-valentina",
+  "type": "partner",
+  "a": "vladimir_d",
+  "b": "valentina",
+  "status": "candidate",
+  "basis": "Hypotes: Larissas patronymikon Vladimirovna och mamman Valentina. Faderns namn är aldrig uppgivet av familjen."
+ },
+ {
+  "id": "c-alexander-larissa-evgenia",
+  "type": "child",
+  "parents": [
+   "alexander",
+   "larissa"
+  ],
+  "child": "evgenia",
+  "status": "family",
+  "basis": "Uppgift från familjen (Evgenia via Martin), 2026-10-06. Inget dokument."
+ },
+ {
+  "id": "c-andrej-nina-alexander",
+  "type": "child",
+  "parents": [
+   "andrej",
+   "nina"
+  ],
+  "child": "alexander",
+  "status": "family",
+  "basis": "Uppgift från familjen (Evgenia via Martin), 2026-10-06. Inget dokument."
+ },
+ {
+  "id": "c-andrej-nina-vladimir_k",
+  "type": "child",
+  "parents": [
+   "andrej",
+   "nina"
+  ],
+  "child": "vladimir_k",
+  "status": "family",
+  "basis": "Uppgift från familjen (Evgenia via Martin), 2026-10-06. Inget dokument. Storebror till Alexander."
+ },
+ {
+  "id": "c-valentina-larissa",
+  "type": "child",
+  "parents": [
+   "valentina"
+  ],
+  "child": "larissa",
+  "status": "family",
+  "basis": "Uppgift från familjen (Evgenia via Martin), 2026-10-06. Inget dokument. Fadern uppgiven som okänd."
+ },
+ {
+  "id": "c-vladimir-valentina-larissa",
+  "type": "child",
+  "parents": [
+   "vladimir_d",
+   "valentina"
+  ],
+  "child": "larissa",
+  "status": "candidate",
+  "basis": "Hypotes ur patronymikon Vladimirovna. Prövas mot Larissas födelseakt."
+ },
+ {
+  "id": "c-valentina-oleg",
+  "type": "child",
+  "parents": [
+   "valentina"
+  ],
+  "child": "oleg",
+  "status": "family",
+  "basis": "Uppgift från familjen (Evgenia via Martin), 2026-10-06. Inget dokument. Syskon till Larissa; gemensam far inte bekräftad."
+ },
+ {
+  "id": "c-valentina-julia",
+  "type": "child",
+  "parents": [
+   "valentina"
+  ],
+  "child": "julia",
+  "status": "family",
+  "basis": "Uppgift från familjen (Evgenia via Martin), 2026-10-06. Inget dokument. Yngst av syskonen; gemensam far inte bekräftad."
+ }
+]

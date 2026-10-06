@@ -1,0 +1,64 @@
+{
+ "open": [
+  {
+   "title": "Evgenias födelseår",
+   "text": "Ej uppgivet i första underlaget. Behövs för trädet; behandlas som levande (endast år visas).",
+   "persons": [
+    "evgenia"
+   ]
+  },
+  {
+   "title": "Larissas far: Vladimir Dobovtsev?",
+   "text": "Patronymikon Vladimirovna pekar på fadern Vladimir. Verifiera i Larissas födelseakt (ZAGS, ca 1962, Saratov-området) eller Valentinas/Olegs/Julias akter. Annars kan fadern ha en annan roll (styvfar, adoption).",
+   "persons": [
+    "larissa",
+    "vladimir_d",
+    "valentina"
+   ]
+  },
+  {
+   "title": "Stavning: Karmanov/Karmanova och Dobovtseva",
+   "text": "Andrej är uppgiven som ”Karmanova”, men mansnamn slutar på -ov. Dobovtseva kan vara Добовцева eller Добровцева på kyrilliska. Fråga familjen eller kontrollera pass/dokument.",
+   "persons": [
+    "andrej",
+    "larissa",
+    "valentina",
+    "oleg",
+    "julia"
+   ]
+  },
+  {
+   "title": "Flicknamn och födelsedata för Nina och Valentina",
+   "text": "Nina är endast känd med gift namn. Valentinas flicknamn och båda mormödrarnas födelseår är okända. Frågor: farmors/mormors flicknamn, födelseort, föräldrar.",
+   "persons": [
+    "nina",
+    "valentina"
+   ]
+  },
+  {
+   "title": "Etnicitet, religion, språk och familjepapper",
+   "text": "Ej kartlagt (påverkar vilka arkiv och böcker som finns). Fråga Evgenia om släktens ursprung, tro, äldre släktnamn och dokument hon har (pass, födelsebevis, foton).",
+   "persons": []
+  },
+  {
+   "title": "Syskonskarans fäder",
+   "text": "Oleg och Julia anges som Larissas syskon, men gemensam far är inte bekräftad (hel- eller halvsyskon).",
+   "persons": [
+    "oleg",
+    "julia",
+    "larissa"
+   ]
+  }
+ ],
+ "conflicts": [],
+ "excluded": [],
+ "rules": [
+  "verified kräver uttrycklig primärkälla: metrisk bok, folkräkning eller revizskaja skazka med familjeställning, ZAGS-akt eller arkivintyg.",
+  "Samma namn och samma födelseår räcker aldrig för verified. Datumkonflikter ger strong och en flagga.",
+  "Geneanet, MyHeritage, Ancestry, forum och användarträd är lead (sökingång), aldrig bevis.",
+  "En verifierad person innebär inte automatiskt en verifierad relation.",
+  "Levande personer: bara namn, släktband och födelseår. Dölj detaljer i exporten.",
+  "Före 1 februari 1918 gällde gamla stilen (julianska kalendern) i Ryssland. Skriv alltid ”gammal stil/ny stil” när källan anger det."
+ ],
+ "resolved": []
+}

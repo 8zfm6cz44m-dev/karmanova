@@ -1,0 +1,280 @@
+[
+ {
+  "id": "evgenia",
+  "name": "Evgenia Alexandrovna Karmanova",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Евгения Александровна Карманова (härledd kyrilliska, ej bekräftad stavning)",
+   "BGN/PCGN: Yevgeniya Aleksandrovna Karmanova",
+   "ISO 9: Evgeniâ Aleksandrovna Karmanova"
+  ],
+  "summary": "Utgångsperson. Dotter till Alexander Andrejevich Karmanov och Larissa Vladimirovna (född Dobovtseva).",
+  "flags": [
+   "Födelseår saknas"
+  ],
+  "notes": [
+   "Patronymikon Alexandrovna stämmer med faderns förnamn Alexander."
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Evgenia Karmanova",
+   "Evgeniya Karmanova",
+   "Yevgeniya Karmanova",
+   "Jevgenija Karmanova",
+   "Евгения Карманова"
+  ]
+ },
+ {
+  "id": "alexander",
+  "name": "Alexander Andrejevich Karmanov",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Александр Андреевич Карманов (härledd kyrilliska, ej bekräftad stavning)",
+   "BGN/PCGN: Aleksandr Andreyevich Karmanov",
+   "ISO 9: Aleksandr Andreevič Karmanov"
+  ],
+  "born": {
+   "date": "1960"
+  },
+  "summary": "Evgenias pappa. Son till Andrej och Nina Karmanov. Yngre bror till Vladimir.",
+  "notes": [
+   "Patronymikon Andrejevich stämmer med faderns förnamn Andrej."
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Alexander Karmanov",
+   "Aleksandr Karmanov",
+   "Aleksandr Andreevich Karmanov",
+   "Александр Карманов",
+   "Андреевич"
+  ]
+ },
+ {
+  "id": "larissa",
+  "name": "Larissa Vladimirovna Dobovtseva",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Лариса Владимировна Добовцева / Добровцева (härledd kyrilliska, stavning ej bekräftad)",
+   "BGN/PCGN: Larisa Vladimirovna Dobovtseva"
+  ],
+  "born": {
+   "date": "1962"
+  },
+  "summary": "Evgenias mamma, född Dobovtseva (gift namn okänt, troligen Karmanova). Äldst av tre syskon.",
+  "flags": [
+   "Gift efternamn okänt"
+  ],
+  "notes": [
+   "Patronymikon Vladimirovna tyder på att hennes far hette Vladimir (se Vladimir Dobovtsev, kandidat).",
+   "Ryska kvinnonamn: flicknamnet Dobovtseva är det som söks i födelseakten och i släktens arkiv."
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Larissa Dobovtseva",
+   "Larisa Dobovtseva",
+   "Larissa Karmanova",
+   "Лариса Добовцева",
+   "Добровцева",
+   "Владимировна"
+  ]
+ },
+ {
+  "id": "valentina",
+  "name": "Valentina Dobovtseva",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Валентина Добовцева / Добровцева (härledd kyrilliska, ej bekräftad)"
+  ],
+  "summary": "Larissas mamma. Efternamn före/efter giftermål ej bekräftat.",
+  "flags": [
+   "Födelseår och flicknamn okända"
+  ],
+  "notes": [
+   "Levandestatus okänd; behandlas som levande (detaljer döljs) tills annat framgår."
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Valentina Dobovtseva",
+   "Валентина"
+  ]
+ },
+ {
+  "id": "vladimir_d",
+  "name": "Vladimir Dobovtsev",
+  "status": "candidate",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Владимир Добовцев / Добровцев (härledd kyrilliska, ej bekräftad)"
+  ],
+  "summary": "Troligen Larissas far. Namnet är härlett ur Larissas patronymikon Vladimirovna – inte uppgivet av familjen.",
+  "flags": [
+   "Härledd ur patronymikon"
+  ],
+  "notes": [
+   "Kandidat: Larissas far är okänd för familjen, men hennes patronymikon Vladimirovna pekar på förnamnet Vladimir. Efternamnet Dobovtsev stöds av brodern Oleg Dobovtsev.",
+   "Samma namn räcker aldrig för verified. Kräver Larissas födelseakt (ZAGS, ca 1962) med faderns namn.",
+   "Levandestatus okänd; behandlas som levande."
+  ],
+  "sources": [
+   {
+    "label": "Härledning ur patronymikon (Larissa Vladimirovna), 2026-10-06 – ingen oberoende källa"
+   }
+  ],
+  "search": [
+   "Vladimir Dobovtsev",
+   "Владимир"
+  ]
+ },
+ {
+  "id": "julia",
+  "name": "Julia Dobovtseva",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Юлия Добовцева / Добровцева (härledd kyrilliska, ej bekräftad)",
+   "BGN/PCGN: Yuliya Dobovtseva"
+  ],
+  "summary": "Larissas yngsta syskon.",
+  "flags": [
+   "Födelseår okänt"
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Julia Dobovtseva",
+   "Yulia Dobovtseva",
+   "Юлия"
+  ]
+ },
+ {
+  "id": "oleg",
+  "name": "Oleg Dobovtsev",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Олег Добовцев / Добровцев (härledd kyrilliska, ej bekräftad)"
+  ],
+  "summary": "Larissas syskon, mellanbarnet (yngre än Larissa, äldre än Julia).",
+  "flags": [
+   "Födelseår okänt"
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Oleg Dobovtsev",
+   "Олег"
+  ]
+ },
+ {
+  "id": "nina",
+  "name": "Nina Karmanova",
+  "status": "family",
+  "sex": "f",
+  "living": true,
+  "altNames": [
+   "Нина Карманова (härledd kyrilliska, ej bekräftad)"
+  ],
+  "summary": "Alexanders mamma. Gift namn Karmanova; flicknamn okänt.",
+  "flags": [
+   "Flicknamn okänt"
+  ],
+  "notes": [
+   "Levandestatus okänd; behandlas som levande tills annat framgår."
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Nina Karmanova",
+   "Нина"
+  ]
+ },
+ {
+  "id": "andrej",
+  "name": "Andrej Karmanov",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Андрей Карманов (härledd kyrilliska, ej bekräftad)",
+   "BGN/PCGN: Andrey Karmanov",
+   "ISO 9: Andrej Karmanov"
+  ],
+  "summary": "Alexanders pappa. Uppgiven som ”Andrej Karmanova”; mansnamnet bör vara Karmanov (-ova är kvinnlig form), vilket antas men inte är bekräftat.",
+  "flags": [
+   "Stavning Karmanov/Karmanova"
+  ],
+  "notes": [
+   "Levandestatus okänd; behandlas som levande tills annat framgår."
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Andrej Karmanov",
+   "Andrey Karmanov",
+   "Andrei Karmanov",
+   "Андрей"
+  ]
+ },
+ {
+  "id": "vladimir_k",
+  "name": "Vladimir Karmanov",
+  "status": "family",
+  "sex": "m",
+  "living": true,
+  "altNames": [
+   "Владимир Карманов (härledd kyrilliska, ej bekräftad)"
+  ],
+  "summary": "Alexanders storebror.",
+  "flags": [
+   "Födelseår okänt"
+  ],
+  "sources": [
+   {
+    "label": "Familjeuppgift: Evgenia Karmanova, förmedlad av Martin, 2026-10-06 (muntlig, inget dokument)"
+   }
+  ],
+  "search": [
+   "Vladimir Karmanov",
+   "Владимир Карманов"
+  ]
+ }
+]

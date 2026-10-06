@@ -1,13 +1,6 @@
 {
  "open": [
   {
-   "title": "Evgenias födelseår",
-   "text": "Ej uppgivet i första underlaget. Behövs för trädet; behandlas som levande (endast år visas).",
-   "persons": [
-    "evgenia"
-   ]
-  },
-  {
    "title": "Larissas far: Vladimir Dubovtsev?",
    "text": "Patronymikon Vladimirovna pekar på fadern Vladimir. Verifiera i Larissas födelseakt (ZAGS, ca 1962, Saratov-området) eller Valentinas/Olegs/Julias akter. Annars kan fadern ha en annan roll (styvfar, adoption).",
    "persons": [
@@ -56,5 +49,10 @@
   "Levande personer: bara namn, släktband och födelseår. Dölj detaljer i exporten.",
   "Före 1 februari 1918 gällde gamla stilen (julianska kalendern) i Ryssland. Skriv alltid ”gammal stil/ny stil” när källan anger det."
  ],
- "resolved": []
+ "resolved": [
+  {
+   "title": "Evgenias födelseår",
+   "text": "1982 (familjeuppgift via Martin, 2026-10-06). Full dag i privat fil."
+  }
+ ]
 }

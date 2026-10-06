@@ -11,9 +11,6 @@
    "ISO 9: Evgeniâ Aleksandrovna Karmanova"
   ],
   "summary": "Utgångsperson. Dotter till Alexander Andrejevich Karmanov och Larissa Vladimirovna (född Dubovtseva).",
-  "flags": [
-   "Födelseår saknas"
-  ],
   "notes": [
    "Patronymikon Alexandrovna stämmer med faderns förnamn Alexander."
   ],
@@ -28,7 +25,10 @@
    "Yevgeniya Karmanova",
    "Jevgenija Karmanova",
    "Евгения Карманова"
-  ]
+  ],
+  "born": {
+   "date": "1982"
+  }
  },
  {
   "id": "alexander",

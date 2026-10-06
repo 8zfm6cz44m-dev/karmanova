@@ -82,6 +82,28 @@
      "t": "Inga bilder registrerade än."
     }
    ]
+  },
+  {
+   "id": "logg-002",
+   "doc": "logg",
+   "title": "2026-10-06 FamilySearch, första namnsökningen",
+   "items": [
+    {
+     "t": "Sökt i FamilySearch (inloggad av Evgenia själv, gratis konto) på efternamn: Дубовцев (345 500 träffar totalt i alla historiska poster, 98 sidor) och Дубовцев* med platsfilter Saratov (404 träffar), samt Карманов med platsfilter Simbirsk (56 795 träffar)."
+    },
+    {
+     "t": "Dubovtsev: Inga Saratov-träffar bland de första 50 av 404. Träffarna är mest ur kyrkböcker i Olonets/Vjatka (Udmurtien), Tomsk, Tobolsk, Kiev och Samara. Närmast Saratov geografiskt: Samara-samlingen, ”Сергей Митрофанов Дубовцев”, född 1887, vigsel 20 oktober 1917, Samara (Voskresenskij-katedralen), maka Елена Степанова Корелина. Ingen koppling till Larissas familj känd. Endast sökingång."
+    },
+    {
+     "t": "Karmanov: Efternamnet är mycket vanligt i Simbirsk guvernement på 1800-talet (ca 50 poster på första sidan, t.ex. ”Андрей Егоров Карманов”, död 11 juli 1892 i Simbirsk, född 1834; ”Яков Васильев Карманов”, vigsel 25 oktober 1898 i Simbirsk). Alla är födda 1746–1875 och går inte att koppla till Andrej Karmanov (född sannolikt 1920–1940-talet). Namn och region räcker inte för {{candidate}}."
+    },
+    {
+     "t": "Slutsats: Indexerade kyrkböcker slutar 1917–1939 och täcker inte de nu levande personernas föräldrar. För att gå vidare behövs Andrejs och Ninas födelseår och by, samt Valentinas flicknamn. Då kan en sökning i Simbirsks och Saratovs kyrkböcker och revisionslängder göras mot rätt socken."
+    },
+    {
+     "t": "Källa: FamilySearch-samlingarna ”Ryssland, kyrkböcker i Samara 1748–1934”, ”Russia, Olonets, Church Books 1718–1940”, ”Russia, Tomsk, Church Books 1752–1918”, https://www.familysearch.org/search/collection/2072090 (Simbirsk, ej indexerad)."
+    }
+   ]
   }
  ]
 }
